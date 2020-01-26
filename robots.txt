@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://imahngota.dearsan.top/sitemap.xml
